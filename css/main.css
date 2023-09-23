@@ -63,6 +63,7 @@ body {
   transform: translateX(-50%);
 }
 
+
 /**** LAnding****/
 .landing {
   background-image: url("../imgs/landpage2.jpg");
@@ -226,7 +227,9 @@ body {
   color: #ff0000;
 }
 .social-icons a:hover i {
+
   background-color: #19283f;
   color: white;
   transition: background-color 0.5s, color 0.3s;
+
 }
