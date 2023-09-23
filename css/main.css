@@ -64,14 +64,14 @@ body {
 }
 
 
-/**** LAnding****/
-.landing {
-  background-image: url("../imgs/landpage2.jpg");
-  background-color: currentcolor;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  min-height: calc(100vh - 72px);
+/**** LAnding****/ 
+.landing{
+    background-image: url('../imgs/landpage2.jpg');
+    background-color: currentcolor;  
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    min-height: calc(100vh - 72px);
 }
 
 /**** features ****/
